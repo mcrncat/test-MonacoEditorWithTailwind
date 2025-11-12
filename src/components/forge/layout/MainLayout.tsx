@@ -1,6 +1,6 @@
-import LeftPanel from "./LeftPanel";
-import CanvasPanel from "./CanvasPanel";
-import RightPanel from "./RightPanel";
+import LeftPanel from "./panels/LeftPanel";
+import CanvasPanel from "./panels/CanvasPanel";
+import RightPanel from "./panels/RightPanel";
 
 export default function MainLayout() {
   return (
